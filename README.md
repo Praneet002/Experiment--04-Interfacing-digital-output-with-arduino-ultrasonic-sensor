@@ -86,7 +86,7 @@ void loop()
 
 ### OUTPUT
 
-![git](./Screenshot 2022-05-12 180813.png)
+![output](./Screenshot 2022-05-12 180813.png)
 
 
 
