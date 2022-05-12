@@ -86,7 +86,7 @@ void loop()
 
 ### OUTPUT
 
-![output](./Screenshot 2022-05-12 180813.png)
+![output](https://github.com/Praneet002/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/Screenshot%202022-05-12%20180813.png)
 
 
 
